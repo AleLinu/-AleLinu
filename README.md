@@ -90,7 +90,7 @@ Clientes en Uruguay, Brasil, Portugal, Argentina (Buenos Aires) y Londres (Reino
 
 <div align="center">
 
-**— EXCELENCIA EN CADA LÍNEA DE CÓDIGO —**
+**— EXCELENCIA —**
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=AleLinu&color=00e5a0&style=flat-square&label=Visitas)
 
